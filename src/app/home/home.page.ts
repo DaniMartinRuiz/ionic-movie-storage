@@ -15,8 +15,7 @@ export class HomePage implements OnInit {
       name: 'EL padrino',
       genre: 'Grangsteres, Drama',
       date: '1972',
-      cover:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Godfather_movie_logo.png / 250px- The_Godfather_movie_logo.png',
+      cover:'http://es.web.img3.acsta.net/pictures/18/06/12/12/12/0117051.jpg?coixp=49&coiyp=27',
       description: `El Padrino (título original en inglés: The Godfather1
 ) es una película estadounidense de 1972 dirigida por Francis Ford
 Coppola.El filme fue producido por Albert S.Ruddy, de la compañía
@@ -30,7 +29,7 @@ acreditado`
       name: 'Kill Bill',
       genre: 'acción, película de violación y venganza y artes marciales',
       date: '2003',
-      cover: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kill_Bill_svg_logo.svg / 800px - Kill_Bill_svg_logo.svg.png',
+      cover: 'https://images-na.ssl-images-amazon.com/images/I/61GnAONreLL._SL1024_.jpg',
       description: `Kill Bill es una película de acción y suspensoestadounidense de dos partes estrenada en 2003 y 2004 respectivamente,
     que fue escrita y dirigida por Quentin Tarantino.Kill Bill originalmente
   fue propuesta para tener un lanzamiento único en los cines, pero con una
